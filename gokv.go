@@ -1,5 +1,5 @@
 /**
- * Very simple KV Store
+ * Very simple KV Store in go backed by file system
  */
 package gokv
 
