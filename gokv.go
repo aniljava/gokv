@@ -26,7 +26,7 @@ func DefaultConfig() DBConfig {
 	config := DBConfig{}
 
 	config.NUMBER_OF_BUCKETS = 999983
-	config.DBPath = "/root/Desktop/default.db"
+	config.DBPath = "default.db"
 
 	return config
 }
