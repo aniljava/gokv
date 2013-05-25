@@ -5,6 +5,11 @@ This is an incomplete project, set up to switch between my desktop and laptop. T
 ## Goal
 Create a simple Key Value data store backed by a file. Based on configuration, can either be cached or inmemory system.
 
+## NOTES
+
+- MMAAP is not used, all reads and writes using plain rear/write
+- Lock system is not implemented
+
 
 ## Notes on data HashTable
 
